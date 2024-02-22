@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  background: url(th.jpg);
+  color: black;
+}
+h1 {
+  text-shadow: 1px 1px 1px black;
+}
+header{
+display: inline
+  margin-right: 10px;
+}
+.navbar a {
+display: inline; 
+}
+.register-box {
+   border: 1px solid #333;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.3);
+  width: 800px;
+  height: 600px;
+   text-shadow: 1px 1px 1px black;
+    background-color: #3792b9;
+    border-radius: 5px;
+  margin: auto;
+}
+.register-box .registerbtn{
+  font-family: 'Poppins', sans-serif;
+   text-shadow: 1px 1px 1px black;
+    background-color: #3792b9;
+    border-radius: 5px;
+  margin: auto;
+
+
+}
+img {
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  border-radius: 50%;
+}
+  a {
+    text-decoration: none;
+  }
+   .button button {
+      position:relative;
+      margin-top: 100px;
+      width: 300px;
+      height: 100px;
+      background-color: #5c9cbc;
+      color: white;
+
+    }
+.login loginbtn{
+border: 1px solid #333;
+box-shadow: 0 0 10px 5px rgba(0,0,0,0.3);
+width: 800px;
+height: 100px;
+ text-shadow: 1px 1px 1px black;
+  background-color: #3792b9;
+  border-radius: 5px;
+margin: justify;
+  }
+.button .loginbtn {
+  border: 1px solid #333;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 0 0 10px 5px rgba(0,0,0,0.3);
+  width: 800px;
+  height: 100px;
+   text-shadow: 1px 1px 1px black;
+    background-color: #3792b9;
+    border-radius: 5px;
+  margin: auto;
+}
